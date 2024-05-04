@@ -1,4 +1,4 @@
-README: Integrating AI with Spring using Ollama with Mistral AI
+Integrating AI with Spring using Ollama with Mistral AI
 
 ->Overview
 This README provides guidance on integrating artificial intelligence (AI) capabilities into a Spring application using Ollama with Mistral AI. Ollama is a lightweight Java library for integrating AI models into applications, and Mistral AI provides powerful AI capabilities. By following this guide, you'll be able to enhance your Spring application with advanced AI functionalities.
